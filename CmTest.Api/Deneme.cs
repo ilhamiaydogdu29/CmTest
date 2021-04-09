@@ -1,4 +1,5 @@
 ﻿public class aa
 {
-    public strgin aaa { get; set; }
+    public string aaa { get; set; }
+    public string bbb { get; set; }
 }
