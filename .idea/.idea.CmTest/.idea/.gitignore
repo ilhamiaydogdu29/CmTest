@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.CmTest.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\YeditepeSoft\RiderProjects\CmTest\.idea\.idea.CmTest\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

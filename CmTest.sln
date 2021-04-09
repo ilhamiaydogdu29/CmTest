@@ -1,0 +1,12 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmTest.Api", "CmTest.Api\CmTest.Api.csproj", "{05481B99-85C8-4305-A500-BFAEA9AD5163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CmTest.Entity", "CmTest.Entity\CmTest.Entity.csproj", "{D0417C0B-8A15-41B0-8C87-66FC4187C509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal
